@@ -1,6 +1,6 @@
 # FLASK A-Z
 
-A complete Flask hands-on tutorial by Manith Jayaba
+A complete Flask hands-on tutorial by `Manith Jayaba`.
 
 [1. FLASK INTRO](FLASK%20A-Z%20a567c3571bdb4cf9a3aa544868f2b4ac/1%20FLASK%20INTRO%20b1efbc1bd2cb42249e6fd7c26b0d1dbc.md)
 
